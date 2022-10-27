@@ -1,1 +1,2 @@
 # ManavKasaProgrami
+www.patika.dev
